@@ -46,7 +46,7 @@ Real infrastructure rarely fails with a clean error message. Some highlights:
 ## Roadmap
 
 **Game servers to add**
-- [x] Safisfactory
+- [x] Satisfactory
 - [ ] PalWorld
 - [ ] Minecraft (Java)
 - [ ] Minecraft (Bedrock)
