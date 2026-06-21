@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Secrets & environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+credentials.json
+*credentials*.json
+
+# Cloudflare tunnel secrets
+cert.pem
+*.tunnel.json
+.cloudflared/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+logs/
+
+# Databases & dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
